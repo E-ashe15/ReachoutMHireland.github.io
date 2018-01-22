@@ -17,7 +17,7 @@
 /*this contains code to make the navigation bars hover over one another*/
 
 #mySidenav a:hover {
-    left: 0;
+    left: 1;
 }
 
 /*this contains the code that sets the font and its background of the homepage*/
